@@ -1,5 +1,7 @@
 ### Hola, soy Andrea! 👋
 Soy una estudiante de primero de Desarrollo de Aplicaciones Multiplataforma
+
+
 Ahora mismo estoy estudiando y aprendiendo...
 
 <!--
