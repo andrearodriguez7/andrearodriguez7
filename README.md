@@ -5,6 +5,9 @@ Estoy en primero de Desarrollo de Aplicaciones Multiplataforma
 
 Ahora mismo estoy aprendiendo...
 
+![GITHUB_ANDREA](https://github.com/andrearodriguez7/andrearodriguez7/assets/145468931/0f53f619-bccc-4f8c-9118-2736e45814e6)
+
+
 <!--
 **andrearodriguez7/andrearodriguez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
