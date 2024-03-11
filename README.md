@@ -5,7 +5,7 @@ Estoy en primero de Desarrollo de Aplicaciones Multiplataforma
 
 Ahora mismo estoy aprendiendo...
 
-![GITHUB_ANDREA](https://github.com/andrearodriguez7/andrearodriguez7/assets/145468931/0f53f619-bccc-4f8c-9118-2736e45814e6)
+![GITHUB_ANDREA3](https://github.com/andrearodriguez7/andrearodriguez7/assets/145468931/c3c536d5-ad25-4fbe-86b9-e7d4524f1f70)
 
 
 <!--
