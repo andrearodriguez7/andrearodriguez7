@@ -1,8 +1,9 @@
 ### Hola, soy Andrea! 👋
-Soy una estudiante de primero de Desarrollo de Aplicaciones Multiplataforma
+Estudiante 😄
 
+Estoy en primero de Desarrollo de Aplicaciones Multiplataforma
 
-Ahora mismo estoy estudiando y aprendiendo...
+Ahora mismo estoy aprendiendo...
 
 <!--
 **andrearodriguez7/andrearodriguez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
