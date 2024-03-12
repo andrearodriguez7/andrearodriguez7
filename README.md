@@ -3,10 +3,8 @@
 
 Estoy en primero de Desarrollo de Aplicaciones Multiplataforma
 
-Ahora mismo estoy aprendiendo...
-
-![Cartel Programadora](https://github.com/andrearodriguez7/andrearodriguezg7/assets/145468931/9633b3c3-689e-42b4-9461-0f98d7c2e1d4)
-
+Ahora mismo estoy aprendiendo...                                   
+   ![Cartel Programadora3](https://github.com/andrearodriguez7/andrearodriguezg7/assets/145468931/a4d3f46a-88ff-473a-bbd8-da4dfbebe812)
 
 
 <!--
