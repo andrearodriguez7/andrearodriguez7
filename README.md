@@ -1,11 +1,6 @@
 ### Hola, soy Andrea! 👋
-#### Estudiante 😄
 
-Estoy en primero de Desarrollo de Aplicaciones Multiplataforma
-
-Ahora mismo estoy aprendiendo...  
-
-![Cartel Programadora3](https://github.com/andrearodriguez7/andrearodriguezg7/assets/145468931/a4d3f46a-88ff-473a-bbd8-da4dfbebe812)
+![fondo de pantalla tarot astrologia beis](https://github.com/andrearodriguez7/andrearodriguezg7/assets/145468931/547f792e-39dd-460b-94f8-cf515580319d)
 
 
 <!--
